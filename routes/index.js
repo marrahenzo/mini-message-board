@@ -11,6 +11,12 @@ const messages = [
     text: 'Hello World!',
     user: 'Charles',
     added: new Date()
+  },
+  { text: 'Zeus!', user: 'Kratos', added: new Date() },
+  {
+    text: 'The Arcana is the means by which all is revealed',
+    user: 'Nyx Avatar',
+    added: new Date()
   }
 ];
 
